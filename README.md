@@ -1,5 +1,18 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+# Mapping Data Visualization with Leaflet
 
+## Project
+
+1. **Map visualization of data earthquakes**
+
+   A map has been created using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+      * Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in .
+      * Popups provide additional information about the earthquake when a marker is clicked.
+      * A legend has been created to provide context for your map data.
+ 
+ 2. **Addition of the tetronic plates on the map**
+
+   A study illustrate on the map the relationship between tectonic plates and seismic activity.
+   
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
