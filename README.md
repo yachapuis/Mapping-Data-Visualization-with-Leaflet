@@ -10,7 +10,7 @@
       * A legend has been created to provide context for your map data.
  
  2. **Addition of the tetronic plates on the map**
-
+ 
    A study illustrate on the map the relationship between tectonic plates and seismic activity.
    
 ## Background
