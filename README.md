@@ -9,9 +9,9 @@
       * Popups provide additional information about the earthquake when a marker is clicked.
       * A legend has been created to provide context for your map data.
       
-1. **Map visualization of data earthquakes**
+1. **Addition of the tetronic plates on the map**
 
-   A map has been created using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   A study illustrate on the map the relationship between tectonic plates and seismic activity.
       
  2. **Addition of the tetronic plates on the map**
  
