@@ -12,7 +12,7 @@
  2. **Addition of the tetronic plates on the map**
  
    A study illustrate on the map the relationship between tectonic plates and seismic activity.
-   
+
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
