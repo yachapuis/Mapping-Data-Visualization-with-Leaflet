@@ -12,6 +12,9 @@
 2. **Addition of the tetronic plates on the map**
 
    A study illustrate on the map the relationship between tectonic plates and seismic activity.
+
+## Watch the Site pushished at
+   https://yachapuis.github.io/Mapping-Data-Visualization-with-Leaflet/
       
 
 ## Background
