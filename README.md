@@ -13,7 +13,7 @@
 
    A study illustrate on the map the relationship between tectonic plates and seismic activity.
 
-## Watch the Site pushished at
+## Watch the Site Pushished at
    https://yachapuis.github.io/Mapping-Data-Visualization-with-Leaflet/
       
 
