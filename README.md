@@ -15,6 +15,8 @@
 
 ## Watch the Site Pushished at
    https://yachapuis.github.io/Mapping-Data-Visualization-with-Leaflet/
+   
+   ![1-GeoMapping](Images/1-GeoMapping.jpn)
       
 
 ## Background
